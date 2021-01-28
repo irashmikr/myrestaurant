@@ -1,0 +1,1 @@
+window.alert("Thank You For ordering. Your order will be delivered in half an hour!");
